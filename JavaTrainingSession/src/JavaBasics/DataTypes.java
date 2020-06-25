@@ -3,6 +3,8 @@ package JavaBasics;
 public class DataTypes {
 
 	//main() method is the starting of the execution point of the program.
+	//static-When java runtime starts, there is no object of the class present. That’s why the main method has to be static so that JVM can load the class into memory and call the main method. If the main method won’t be static, JVM would not be able to call it because there is no object of the class is present. Let’s see what happens when we remove static from java main method.
+	//String[] args-Java main method accepts a single argument of type String array. This is also called as java command line arguments. Let’s have a look at the example of using java command line arguments.
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
