@@ -1,0 +1,12 @@
+package JavaBasics;
+
+public class TwoDimensionalArray {
+
+	public static void main(String[] args) {
+		String x[][]=new String[3][5];
+		System.out.println("size is "+x.length);
+		// TODO Auto-generated method stub
+
+	}
+
+}

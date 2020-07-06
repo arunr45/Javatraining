@@ -1,0 +1,13 @@
+package JavaBasics;
+
+public class TwoDimensionalArray {
+
+	public static void main(String[] args) {
+		String x[][]=new String[3][5];
+		System.out.println("size is "+x.length);
+		System.out.println("size of column" +x[0].length)
+		// TODO Auto-generated method stub
+
+	}
+
+}
