@@ -1,10 +1,16 @@
 package oopsConcept;
 
-public class Car {
+public class Function {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 	}
-
+public void divison(int x,int y)
+{
+	int d;
+	d=x/y;
+	return d;
+}
+}
 }

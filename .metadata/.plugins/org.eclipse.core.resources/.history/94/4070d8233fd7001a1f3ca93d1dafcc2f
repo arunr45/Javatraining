@@ -25,15 +25,6 @@ public class Car {
  System.out.println(a.mod);
  System.out.println(b.mod);
  System.out.println(c.mod);
- System.out.println("After assigning");
- a=b;
- b=c;
- c=a;
- a.mod=10;
- System.out.println("Valu of a" +a.mod);
- c.mod=30;
- System.out.println("Valu of a" +a.mod);
-
  
 }
 
