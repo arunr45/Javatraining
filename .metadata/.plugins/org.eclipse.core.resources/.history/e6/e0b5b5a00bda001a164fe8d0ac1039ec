@@ -1,0 +1,24 @@
+package oopsConcept;
+
+public class Variable {
+	int a=10;
+	int b=20;
+	int c=30;
+	int d=40;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public int sum()
+	{
+		int sum;
+		sum=a+b;
+		System.out.println("The sum is");
+		System.out.println(sum);
+		
+	}
+	
+	}
+}
