@@ -1,0 +1,18 @@
+package oopsConcept;
+
+public class Callbyvaluereference {
+
+	public static void main(String[] args) {
+		Callbyvaluereference obj=new Callbyvaluereference();
+		int c=obj.sum(10, 10);
+		System.out.println("Sum is "+c);
+	}
+		// TODO Auto-generated method stub
+
+	
+	
+	public int sum(int a,int b)
+	{
+int c=a+b;
+return c;
+}}

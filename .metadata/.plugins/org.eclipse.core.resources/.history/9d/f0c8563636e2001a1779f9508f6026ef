@@ -1,0 +1,14 @@
+package inheritance;
+
+public class testcar {
+
+	public static void main(String[] args) {
+		BMW b=new BMW();
+		b.start();
+		b.theftsafety();
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

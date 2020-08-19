@@ -1,6 +1,6 @@
 package oopsConcept;
 
-public class Car {
+public class Car extends Vehicle{
 	
 	int mod;
 	String wheel;
