@@ -1,0 +1,20 @@
+package oopsConcept;
+
+public class indianbank implements Usbank {
+	public void creditcard() {
+		System.out.println("--creditcard apply");
+	}
+	public void debitcard()
+	{
+		System.out.println("--debitcard apply");
+	}
+	public void vehiclloan()
+	{
+		System.out.println("--vehicle apply");
+	}
+public void trip()
+{
+	System.out.println("---Trip Loan");
+}
+
+}

@@ -1,0 +1,11 @@
+package JavaBasics;
+
+public class ArrayList {
+
+	public static void main(String[] args) {
+		ArrayList ar=new ArrayList();
+		ar.add(100);
+		ar.add(200);
+		
+	}
+}

@@ -1,0 +1,16 @@
+package JavaBasics;
+import java.io.*;
+import java.util.*;
+public class ArrayListTheme {
+
+	public static void main(String[] args) 
+    { 
+		ArrayList ar=new ArrayList();
+		ar.add(100);
+		ar.add(200);
+		ar.add(300);
+		ar.add(400);
+		System.out.println("The size of array is "+ar.size());
+		
+    }
+}

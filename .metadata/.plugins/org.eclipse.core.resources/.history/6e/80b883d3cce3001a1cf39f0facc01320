@@ -1,0 +1,15 @@
+package oopsConcept;
+
+public class Testbank {
+
+	public static void main(String[] args) {
+		indianbank ind=new indianbank();
+		ind.creditcard();
+		ind.debitcard();
+		ind.vehiclloan();
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

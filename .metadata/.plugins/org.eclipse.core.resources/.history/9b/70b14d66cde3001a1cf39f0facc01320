@@ -1,0 +1,8 @@
+package oopsConcept;
+
+public interface Usbank {
+	public void creditcard();
+	public void debitcard();
+	public void vehiclloan();
+
+}
